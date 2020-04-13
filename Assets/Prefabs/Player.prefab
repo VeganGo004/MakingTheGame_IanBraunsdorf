@@ -1786,8 +1786,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forceMultiplier: 10
-  gravityMultiplier: 1
+  gravityMultiplier: 2
   onGround: 1
+  gameOver: 0
 --- !u!1 &412417655402624125
 GameObject:
   m_ObjectHideFlags: 0
